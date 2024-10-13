@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_rectangle"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/newsletterSnippetText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textAlignment="center" />
+</FrameLayout>
